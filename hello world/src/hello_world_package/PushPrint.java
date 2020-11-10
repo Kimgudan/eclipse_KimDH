@@ -6,6 +6,7 @@ public class PushPrint {
 		System.out.println("My Grade : Sophmore");
 		System.out.println("Wankwang Univ.");
 		System.out.println("JeonBuk Iksan");
+		System.out.println("Fighting");
 	}
 
 }
